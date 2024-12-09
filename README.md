@@ -77,7 +77,7 @@
 
 ---
 
-#### [E-Commerce Masala Products](https://github.com/Sohel-Rahaman-Developer/ecommerce-masala)
+#### [E-Commerce Masala Products](https://milmapure.com/)
 - **Description:** E-commerce platform for masala products
 - **Tech:** Next.js, Node.js, MongoDB
 - **Features:** Payment integration, real-time inventory
@@ -86,7 +86,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://path-to-your-dark-mode-ecommerce-image.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://path-to-your-light-mode-ecommerce-image.svg" />
-    <img alt="E-Commerce Masala Products" src="https://path-to-your-default-ecommerce-image.svg" />
+    <img alt="E-Commerce Masala Products" src="https://milmapure.com" />
   </picture>
 </p>
 
