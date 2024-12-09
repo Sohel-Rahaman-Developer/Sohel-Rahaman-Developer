@@ -80,9 +80,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://path-to-your-dark-mode-protijogi-image.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://path-to-your-light-mode-protijogi-image.svg" />
-    <img alt="Protijogi Quiz Website" src="https://path-to-your-default-protijogi-image.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
+    <img alt="Protijogi Quiz Website" src="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
   </picture>
 </p>
 
