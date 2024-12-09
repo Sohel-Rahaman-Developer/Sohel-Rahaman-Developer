@@ -77,7 +77,7 @@
 
 ---
 
-#### [E-Commerce Masala Products](https://milmapure.com)
+#### [E-Commerce Masala Products](https://github.com/Sohel-Rahaman-Developer/ecommerce-masala)
 - **Description:** E-commerce platform for masala products
 - **Tech:** Next.js, Node.js, MongoDB
 - **Features:** Payment integration, real-time inventory
@@ -92,7 +92,7 @@
 
 ---
 
-#### [Protijogi Quiz Website](https://protijogiquiz.com)
+#### [Protijogi Quiz Website](https://milmapure.com/)
 - **Description:** Real-time quiz application with blogs
 - **Tech:** Next.js, Node.js, MongoDB
 - **Features:** Real-time quizzes, CMS for blogs
