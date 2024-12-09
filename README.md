@@ -44,17 +44,12 @@
 #### **Freelance Full Stack Web Developer**  
 *Kolkata, India | Oct 2023 – Present*
 
-1. **[King RPI Website](https://kingrpi.com)**
-   - Developed real estate platform using Laravel & MySQL
-   - Features: property listings, investment calculators, user accounts
-   - Ensured responsive design and optimized performance
-
-2. **E-Commerce Masala Products**
+1. **E-Commerce Masala Products**
    - Built e-commerce site with Next.js, Node.js, MongoDB
    - Integrated payment systems & real-time inventory management
    - Collaborated closely with client for specifications
 
-3. **[Protijogi Quiz Website](https://protijogiquiz.com)**
+2. **[Protijogi Quiz Website](https://protijogiquiz.com)**
    - Created real-time quiz app with blogging features using Next.js & Node.js
    - Implemented CMS for blogs, managed MongoDB for user data
 
@@ -62,22 +57,8 @@
 
 ### 🚀 Projects
 
-#### [King RPI Website](https://kingrpi.com)
-- **Description:** Real estate property and investment platform
-- **Tech:** Laravel, MySQL
-- **Features:** Property listings, investment calculators, user accounts
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://path-to-your-dark-mode-kingrpi-image.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://path-to-your-light-mode-kingrpi-image.svg" />
-    <img alt="King RPI Website" src="https://path-to-your-default-kingrpi-image.svg" />
-  </picture>
-</p>
-
----
-
-#### [E-Commerce Masala Products](https://milmapure.com/)
+#### **E-Commerce Masala Products**  
+[milmapure.com](https://milmapure.com/)  
 - **Description:** E-commerce platform for masala products
 - **Tech:** Next.js, Node.js, MongoDB
 - **Features:** Payment integration, real-time inventory
@@ -92,7 +73,7 @@
 
 ---
 
-#### [Protijogi Quiz Website](https://milmapure.com/)
+#### **[Protijogi Quiz Website](https://protijogiquiz.com)**  
 - **Description:** Real-time quiz application with blogs
 - **Tech:** Next.js, Node.js, MongoDB
 - **Features:** Real-time quizzes, CMS for blogs
@@ -158,4 +139,3 @@
 ## 🙏 Thank you for visiting! 😊
 
 ---
-
