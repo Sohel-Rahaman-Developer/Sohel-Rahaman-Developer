@@ -65,9 +65,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://path-to-your-dark-mode-ecommerce-image.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://path-to-your-light-mode-ecommerce-image.svg" />
-    <img alt="E-Commerce Masala Products" src="https://milmapure.com" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://milmapure.com/banner-images/hero1.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://milmapure.com/banner-images/hero1.jpg" />
+    <img alt="E-Commerce Masala Products" src="https://milmapure.com/banner-images/hero1.jpg" />
   </picture>
 </p>
 
