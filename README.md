@@ -1,154 +1,149 @@
-## 👋 Hi there, I'm Sohel Rahaman
+<!-- Banner -->
+<h1 align="center">Hi 👋 I'm <span title="Full-Stack Developer">Sohel Rahaman</span></h1>
+<p align="center">
+  <b>Frontend-heavy Full-Stack Dev</b> — React/Next.js • Tailwind • Node/Express • Laravel • MongoDB/MySQL
+</p>
+<p align="center">
+  📍 Barasat, Kolkata · ✉️ <a href="mailto:sohelrahaman.official@gmail.com">sohelrahaman.official@gmail.com</a> ·
+  <a href="https://linkedin.com/in/sohel--rahaman">LinkedIn</a>
+</p>
 
-**Full Stack Web Developer**  
-📍 Barasat, Kolkata  
-📞 +91 7003659717  
-✉️ [sohelrahaman.official@gmail.com](mailto:sohelrahaman.official@gmail.com)
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sohel-Rahaman-Developer&style=for-the-badge&label=Profile+Views" />
+  <a href="https://github.com/Sohel-Rahaman-Developer?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-blueviolet?style=for-the-badge"/></a>
+  <a href="#case-studies"><img src="https://img.shields.io/badge/Case_Studies-See_How_I_Built_It-1abc9c?style=for-the-badge"/></a>
+</p>
 
----
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://img-c.udemycdn.com/course/750x422/3873464_403c_3.jpg" alt="next.js" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjL_fTkHooAFbEKo8kuqwEjmJ3PoufzItdEs_n_ftsgDO5chd03tfHuf2z99VtsXnig4&usqp=CAU" style="display: inline-block;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjL_fTkHooAFbEKo8kuqwEjmJ3PoufzItdEs_n_ftsgDO5chd03tfHuf2z99VtsXnig4&usqp=CAU" alt="laravel" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=900&lines=I+build+clean%2C+fast%2C+reliable+web+apps;React%2FNext.js+frontends+%2B+Node%2FLaravel+APIs;Real-time+dashboards+with+WebSockets;400%2B+third-party+API+integrations+(Razorpay%2C+auth%2C+uploads);Ask+me+how+I+built+%E2%80%9CSecveil%E2%80%9D+and+the+TicketKart+Check-in+App+%F0%9F%94%A5" />
+</p>
 
 ---
 
+### 🧭 About me
+- **Current:** Full Stack Developer @ **ISOAH Data Securities** → building **Secveil** (real-time cybersecurity dashboards: internet access, user access review, antivirus analytics; **WebSockets/Socket.io**, secure APIs, ISO-style practices).  
+- **Prev:** Full Stack @ **Digibranz** → **TicketKart.com**, **Help2Rent (UK)**, **TicketKart Check-in App** (React Native WebView, Play Store); 20+ responsive sites.  
+- **Highlights:** **400+ third-party API integrations** (Razorpay payments, social auth, emails/SMS, uploads, reporting).  
+- **I enjoy:** performance-first UI, role-based systems, charts/tables, and tiny UX details that make users smile.
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>ISOAH Data Securities Pvt Ltd — Full Stack Developer</b> · Jan 2025 – Present · Kolkata</summary>
+
+- Building <b>Secveil</b>: real-time cybersecurity dashboards for internet access monitoring, user access review, and antivirus analytics.  
+- <b>Next.js/React</b> front-end with dark mode, filters, charts, and large data tables.  
+- <b>Node.js/Express</b> APIs with JWT/RBAC, rate limits; <b>WebSockets/Socket.io</b> streaming + resilient reconnects.  
+- ISO-style data handling and audit-friendly workflows.  
+🔗 <a href="https://www.secveil.com">secveil.com</a>
+</details>
+
+<details>
+<summary><b>Digibranz Technologies — Full Stack Developer</b> · May 2023 – Jan 2025 · Kolkata</summary>
+
+<b>Stack:</b> React/Next.js, Tailwind, Redux, Laravel/PHP, Node/Express, MySQL, MongoDB, REST/JWT  
+- Delivered <b>20+ responsive sites</b> and multiple product features end-to-end.  
+- <b>TicketKart.com (Web)</b> — events, coupons, forms, email notifications, <b>social login</b>, admin dashboards.  
+- <b>TicketKart Check-in App (React Native WebView)</b> — PWA-style check-ins, real-time sync with web backend.  
+- <b>Help2Rent (UK)</b> — Laravel platform for property rentals; secure auth, listings, forms, notifications.  
+- <b>400+ third-party API integrations</b> (payments <b>Razorpay</b>, social auth, email/SMS, uploads).  
+Links: <a href="https://play.google.com/store/apps/details?id=com.checkinapp.ticketkart&hl=en_IN">TicketKart App (Play Store)</a> · <a href="https://help2rent.com">Help2Rent</a>
+</details>
+
+<details>
+<summary><b>Freelance — Full Stack Developer (part-time/contract)</b> · Oct 2023 – Present · Remote</summary>
+
+- <b>Protijogi (MERN)</b> — paid quizzes with timers/results, <b>JWT auth</b>, role-based dashboards, admin CMS.  
+  🔗 <a href="https://www.protijogi.com">protijogiquiz.com</a>  
+- <b>Milmapure</b> — Next.js + Node storefront, role-based pricing, order lifecycle (hosting ended).  
+- <b>Real Estate Mgmt</b> — Laravel + MySQL listings/search, RBAC (hosting ended).
+</details>
+
+---
+
+### 🛠️ Tech I use
+<!-- One reliable image renders all icons; dark theme = perfect for dark README -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,php,laravel,mongodb,mysql,postman,figma,git&theme=dark" alt="tech stack icons" />
+</p>
+
+---
+
+## 🎯 Quick Nav
+[Case Studies](#case-studies) • [Projects](#projects) • [Stats](#stats--trophies) • [Snake Game 🐍](#snake-game) • [Contact](#contact)
+
+---
+
+## 📚 Case Studies
+> click to expand — ** “how I built it?”** section
+
+<a id="case-studies"></a>
+<details>
+<summary><b>1) Secveil – Real-time Cybersecurity Product (ISOAH)</b></summary>
+
+**What it is:** dashboards for internet access monitoring, user access review, antivirus analytics.  
+**Stack:** Next.js/React, Node.js APIs, MongoDB, **WebSockets/Socket.io**, JWT, Tailwind.  
+**Key challenges:** real-time reliability, access controls, clean UX for heavy data.  
+**What I did:** live streams + reconnection logic, role-based views, filterable tables/charts, dark mode.  
+**Curious?** 👉 <a href="https://www.secveil.com">secveil.com</a>
+</details>
+
+<details>
+<summary><b>2) TicketKart Check-in App – React Native (Play Store)</b></summary>
+
+**What it is:** event check-ins paired with TicketKart web; **PWA-style** check-ins.  
+**Stack:** React Native (WebView), Laravel backend APIs, real-time sync.  
+**Outcome:** smoother entry mgmt at events, shipped to **Google Play**.  
+**Link:** <a href="https://play.google.com/store/apps/details?id=com.checkinapp.ticketkart&hl=en_IN">Play Store</a>
+</details>
+
+<details>
+<summary><b>3) Help2Rent (UK) – Laravel Platform</b></summary>
+
+**What it is:** property rental portal with forms, coupons, notifications.  
+**Stack:** Laravel/PHP, MySQL, Blade/Tailwind, REST APIs, social login.  
+**Link:** <a href="https://help2rent.com">help2rent.com</a>
+</details>
+
+<details>
+<summary><b>4) Protijogi – Live MERN Quiz Platform</b></summary>
+
+**What it is:** learning + paid quiz with timers/results and admin CMS.  
+**Stack:** Next.js, Node/Express, MongoDB, JWT, role dashboards.  
+**Link:** <a href="https://www.protijogi.com">protijogiquiz.com</a>
+</details>
+
+---
+
+## 🚀 Projects
+<a id="projects"></a>
+
+- **Secveil – Cybersecurity Product** → https://www.secveil.com  
+- **TicketKart Check-in App (Play Store)** → https://play.google.com/store/apps/details?id=com.checkinapp.ticketkart&hl=en_IN  
+- **Help2Rent (UK)** → https://help2rent.com  
+- **Protijogi (Live MERN)** → https://www.protijogiquiz.com  
+- **Milmapure (Next.js + Node)** → E-commerce with role-based pricing & orders (hosting ended)
+
+---
+
+## 📈 Stats & Trophies
+<a id="stats--trophies"></a>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohel-Rahaman-Developer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohel-Rahaman-Developer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohel-Rahaman-Developer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohel-Rahaman-Developer&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohel-Rahaman-Developer&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sohel-Rahaman-Developer&theme=dracula&margin-w=10&margin-h=10"/>
 </div>
 
 ---
 
-<!-- ![Profile Image](https://avatars.githubusercontent.com/u/159044930?v=4) -->
-
----
-
-### 🛠️ Skills & Abilities
-
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, jQuery, AJAX, React.js, Next.js
-- **Backend:** Laravel, Node.js, Express.js
-- **Databases:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **AI Tools:** Utilizes AI tools for efficient coding and problem-solving
-- **Other:** Strong analytical skills, Project management from inception to completion
-
----
-
-### 💼 Experience
-
-#### **Digibranz Technologies**  
-**Full Stack Web Developer**  
-*Kolkata, India | May 2023 – Present*
-
-- Designed responsive interfaces with HTML, CSS, Bootstrap, Tailwind CSS
-- Developed SPAs using React.js and Next.js
-- Built RESTful APIs with Laravel, Node.js, Express.js
-- Managed version control with Git & GitHub
-- Collaborated with cross-functional teams in Agile environment
-
-#### **Freelance Full Stack Web Developer**  
-*Kolkata, India | Oct 2023 – Present*
-
-1. **E-Commerce Masala Products**
-   - Built e-commerce site with Next.js, Node.js, MongoDB
-   - Integrated payment systems & real-time inventory management
-   - Collaborated closely with client for specifications
-
-2. **[Protijogi Quiz Website](https://protijogiquiz.com)**
-   - Created real-time quiz app with blogging features using Next.js & Node.js
-   - Implemented CMS for blogs, managed MongoDB for user data
-
----
-
-### 🚀 Projects
-
-#### **E-Commerce Masala Products**  
-[milmapure.com](https://milmapure.com/)  
-- **Description:** E-commerce platform for masala products
-- **Tech:** Next.js, Node.js, MongoDB
-- **Features:** Payment integration, real-time inventory
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://milmapure.com/banner-images/hero1.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://milmapure.com/banner-images/hero1.jpg" />
-    <img alt="E-Commerce Masala Products" src="https://milmapure.com/banner-images/hero1.jpg" />
-  </picture>
-</p>
-
----
-
-#### **[Protijogi Quiz Website](https://protijogiquiz.com)**  
-- **Description:** Real-time quiz application with blogs
-- **Tech:** Next.js, Node.js, MongoDB
-- **Features:** Real-time quizzes, CMS for blogs
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
-    <img alt="Protijogi Quiz Website" src="https://protijogiquiz.com/_next/static/media/img1.0ef5fddc.jpg" />
-  </picture>
-</p>
-
----
-
-### 📜 Certifications
-
-- **MERN Stack Web Development**  
-  *WsCube Tech*  
-  **Issued:** August 2023 | **Expired:** April 2024  
-  **Credential ID:** WS/2024/1/4008  
-  - Completed 8-month training mastering React, Express, Node, MongoDB
-
----
-
-### 📫 Connect with Me
-
-<div align="left">
-  <!-- <a href="https://instagram.com/Sohel_Rahaman_Official" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a> -->
-  <a href="mailto:sohelrahaman.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/sohel--rahaman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <!-- <a href="https://facebook.com/sohel.rahaman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
-  </a> -->
-  <a href="https://wa.me/917003659717" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
-</div>
-
----
-
-<br clear="both" />
-
----
-
-### 🐍 GitHub Snake
-
+## 🕹️ Snake Game
+<a id="snake-game"></a>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -159,6 +154,7 @@
 
 ---
 
-## 🙏 Thank you for visiting! 😊
+## 📬 Contact
+<a id="contact"></a>
 
----
+**Email:** sohelrahaman.official@gmail.com • **LinkedIn:** https://linkedin.com/in/sohel--rahaman
